@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MemoPhone</string>
+
+    <string name="ok">ok</string>
+    <string name="no_contacts">No contacts in your list</string>
+    
+    <!-- Start -->
+    <string name="welcome">Welcome to MemoPhone!</string>
+    <string name="welcome_text">This app was made to help you memorize phone numbers. Whenever you call a number from your contact list, it will ask you to insert one or more numbers to complete it, and only dial if you do it correctly.</string>
+
+    
+    <!-- Settings -->
+    <string name="settings_title">In this screen you can define the aplications settings:</string>
+    <string name="settings_subtitle">Is the interception of calls active for each call you make?</string>
+    <string name="settings_enabled_title">Enabled for all contacts or specific?</string>
+    <string name="settings_enabled_subtitle">Select specific contacts to intercept:</string>
+    <string name="settings_interception_enabled">Interception Enabled</string>
+    <string name="settings_interception_disabled">Interception Disabled</string>
+    <string name="settings_interception_all_enabled">All Contacts</string>
+    <string name="settings_interception_all_disabled">Selected only</string>
+
+    <!-- GAME -->
+    <string name="game_type">Which type of game do you want to play?</string>
+
+    <string-array name="game_types_strings">
+        <item>Which number is his?</item>
+        <!-- <item>Which person has this number?</item> -->
+    </string-array>
+
+    <string name="guess_number">I think this is the missing number!</string>
+    <string name="disable_memo">Note: To disable memo please click the notification and disable the "Enabled Interception" option</string>
+    <string name="call_intercepted_guess">The number guessing game is enabled, do you really
+		know your contact numbers?</string>
+
+    <!-- GAME -->
+    <string name="guess">Guess</string>
+    <string name="right_guess">You\'ve got it! It is %d, now calling...</string>
+    <string name="wrong_guess">Wrong guess...Try again!</string>
+    <string name="end_game">End Game</string>
+    <string name="page">Page</string>
+
+    <!-- About -->
+    <string name="about_author">Pedro Vicente</string>
+    <string name="about_others">Libraries:\n\nViewPagerIndicator:\n Copyright Patrik Akerfeldt and Jake Wharton</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="PAGE_SETTINGS">Settings</string>
+    <string name="PAGE_START">What?</string>
+    <string name="PAGE_GAME">Games</string>
+    <string name="PAGE_ABOUT">About</string>
+
+</resources>
