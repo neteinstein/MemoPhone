@@ -1,6 +1,13 @@
 MemoPhone
 =========
 
+**Archive Notice 2018** 
+--
+The API that allowed this app to work are now protected by Google. These little hacks to intercept the calls are no longer possible. 
+
+***The App***
+--
+
 With the advent of Mobile Phones we started to store the numbers of our family and friends on the devices and slowly forgot what is our best friend phone, or our grandmother.
 But how can we remember any of them if we never need to remember them? The problem begins when we don't have our phone, or it runs out of battery...
 
